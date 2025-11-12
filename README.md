@@ -56,13 +56,6 @@ The R script (`leukemia_analysis.R`) is organized into the following main sectio
 3.  **Run the R script:**
     Open `leukemia_analysis.R` in RStudio and run the entire script. The script will install any missing packages automatically.
 
-    ```R
-    # ---- Install Libraries ----
-    install.packages(c("Rtsne", "umap", "mclust", "dbscan", "pheatmap", "rpart", "rpart.plot", "ipred", "randomForest", "gbm", "ggplot2", "GGally", "caret"))
-
-    # ... rest of your script
-    ```
-
 ## Contributing
 
 Feel free to fork this repository, open issues, or submit pull requests.
